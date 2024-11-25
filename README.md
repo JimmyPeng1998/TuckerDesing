@@ -1,6 +1,6 @@
 # TuckerDesing
 
-A Matlab solver for low-rank __Tucker__ tensor optimization via __desing__ularization.
+A Matlab solver for low-rank __Tucker__ tensor optimization via **desing**ularization.
 
 
 
